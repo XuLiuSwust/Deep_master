@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 This project aims to help people who know some meachine learning algorithms or deep learning's,but have no idea how to begin a task using what they have learnt.
 And in this repository,I have added some CNNs to our models.What you need to do is to change the model name in config.py.
@@ -69,3 +70,7 @@ run:
  [Introduce the cnns from LeNet to DensNet](https://www.cnblogs.com/skyfsm/p/8451834.html)<br>
  [DenseNet-Keras](https://github.com/flyyufelix/DenseNet-Keras)<br>
 [keras-resnet](https://github.com/raghakot/keras-resnet)<br>
+=======
+# Deep_master
+for lenet ,alexnet googlenet,resnet and so on keras,tf,python
+>>>>>>> 9ddc880f9504b5f98ec7bac325b9394195b4025b
